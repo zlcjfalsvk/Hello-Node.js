@@ -1,0 +1,15 @@
+{
+  "name": "haproxy",
+  "version": "1.0.0",
+  "description": "Haproxy Test Server",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
